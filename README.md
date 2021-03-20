@@ -1,4 +1,4 @@
-[viz.pdf](https://github.com/knolasco/Surfline_Recruitment_Project/files/6175951/viz.pdf)
+![viz](https://user-images.githubusercontent.com/66560796/111876743-5b338900-895d-11eb-94af-df803f998a11.JPG)
 
 # Surfline_Recruitement_Project
  
